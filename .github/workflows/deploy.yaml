@@ -1,6 +1,6 @@
 name: Deploy to EKS
 on:
- # test2345
+ # test
   push:
     branches: [ master ]
   workflow_dispatch:
